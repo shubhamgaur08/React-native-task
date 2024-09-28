@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "name":"Astrologer",
+        "image":"https://w7.pngwing.com/pngs/507/691/png-transparent-nakshatra-hindu-astrology-horoscope-astrological-sign-astrology-decor-aries-ascendant-thumbnail.png"
+    },
+    {
+        "id":2,
+        "name":"assistant",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_jyOS-UkCbkbewqqXeyAhjJbrclNrbS37wg&s"
+    },
+    {
+        "id":3,
+        "name":"Makeup",
+        "image":"https://w7.pngwing.com/pngs/517/842/png-transparent-cosmetics-lipstick-make-up-artist-graphy-makeup-makeup-brush-and-assorted-color-lipstick-miscellaneous-ink-perfume-thumbnail.png"
+    },
+    {
+        "id":4,
+        "name":"Mehndi",
+        "image":"https://arunmehandidoon.com/wp-content/uploads/2021/10/cropped-Arun-Mehandi-Arts-Favicon.png"
+    },
+    {
+        "id":5,
+        "name":"Photographer",
+        "image":"https://i.pinimg.com/474x/75/86/88/758688196b571e125b322806cebbbcdb.jpg"
+    }
+]
